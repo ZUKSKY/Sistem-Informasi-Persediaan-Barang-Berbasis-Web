@@ -9,7 +9,7 @@
                 <div class="card-body p-0">
                     <!-- Nested Row within Card Body -->
                     <div class="row">
-                        <div class="col-lg-6 d-none d-lg-block bg-login-image">
+                        <div class="col-lg-6 d-none d-lg-block bg-dark">
                             <div class="p-5">
                             <br>
                             <div class="judul">
@@ -22,7 +22,7 @@
                                     <div class="double-bounce1"></div>
                                     <div class="double-bounce2"></div>
                                 </div>
-                                <div class="judul">
+                                <div class="judul ">
                                     <hr class="bg-white">
                                     <br>
                                     <div class="text-center">
