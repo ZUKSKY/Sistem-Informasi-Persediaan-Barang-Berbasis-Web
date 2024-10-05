@@ -1,5 +1,5 @@
 # Sistem Informasi Persediaan Barang Berbasis Web
-(PT. Konveksi Jaya)
+(PT. Konveksi Jaya)<br>
 This Web-Based Inventory Information System aims to minimize human error. This application serves as a medium to facilitate warehouse staff in recording inventory and for administrators in management. The processed data includes item information such as item name, item type, item unit, supplier data, and data on incoming and outgoing goods. The system is built on a web-based platform using HTML and CSS with the Bootstrap framework, and it employs PHP programming language with the CodeIgniter framework, along with JavaScript, MySQL as the database for storage, and Apache as the web server.
 
 <p></p>
